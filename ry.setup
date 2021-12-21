@@ -1,0 +1,3 @@
+(compile -d2 ry.scm -o ry)
+
+(install-program 'ry "ry" '((version "1.0")))

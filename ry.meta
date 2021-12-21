@@ -1,0 +1,6 @@
+((license "MIT")
+ (category tools)
+ (needs termbox format utf8 alist-lib s linenoise)
+ (test-depends test)
+ (author "kiasaki")
+ (synopsis "Basic modal editor."))
